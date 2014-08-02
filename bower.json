@@ -1,0 +1,27 @@
+{
+  "name": "polymer-fontawesome",
+  "version": "1.0.0",
+  "authors": [
+    "Tyler Benfield <rtbenfield@gmail.com>"
+  ],
+  "description": "Provides a Polymer approach to Font Awesome.",
+  "keywords": [
+    "polymer",
+    "web-components",
+    "font-awesome"
+  ],
+  "main": "polymer-fontawesome.html",
+  "license": "MIT",
+  "homepage": "https://github.com/rtbenfield/polymer-fontawesome/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "../",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.1.0"
+  }
+}
