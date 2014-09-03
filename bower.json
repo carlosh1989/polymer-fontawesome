@@ -1,6 +1,6 @@
 {
   "name": "polymer-fontawesome",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-beta.2",
   "authors": [
     "Tyler Benfield <rtbenfield@gmail.com>"
   ],
@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "fontawesome": "~4.1.0",
-    "polymer": "~0.3.3"
+    "fontawesome": null,
+    "polymer": null
   }
 }
